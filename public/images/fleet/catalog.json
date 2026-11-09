@@ -1,0 +1,582 @@
+{
+  "Honda City": [
+    {
+      "src": "/images/fleet/honda-city-1.jpg",
+      "title": "Honda City 2020.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Honda_City_2020.jpg",
+      "author": "Thitichai R",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "reference": "Honda City"
+    },
+    {
+      "src": "/images/fleet/honda-city-2.jpg",
+      "title": "2021 Honda City Hatchback RS 1.5 GN5 (20210922).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:2021_Honda_City_Hatchback_RS_1.5_GN5_(20210922).jpg",
+      "author": "\u30aa\u30fc\u30d0\u30fc\u30c9\u30e9\u30a4\u30d683",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "reference": "Honda City"
+    },
+    {
+      "src": "/images/fleet/honda-city-3.jpg",
+      "title": "Honda City GN2 1.5 V - interior view.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Honda_City_GN2_1.5_V_-_interior_view.jpg",
+      "author": "Ethan Llamas",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "reference": "Honda City"
+    }
+  ],
+  "Suzuki Ertiga": [
+    {
+      "src": "/images/fleet/suzuki-ertiga-1.jpg",
+      "title": "Maruti Suzuki Ertiga(2).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Maruti_Suzuki_Ertiga(2).jpg",
+      "author": "Akashpbrahmavar",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "reference": "Suzuki Ertiga"
+    },
+    {
+      "src": "/images/fleet/suzuki-ertiga-2.jpg",
+      "title": "Maruti Suzuki Ertiga(1).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Maruti_Suzuki_Ertiga(1).jpg",
+      "author": "Akashpbrahmavar",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "reference": "Suzuki Ertiga"
+    },
+    {
+      "src": "/images/fleet/suzuki-ertiga-3.jpg",
+      "title": "Maruti Suzuki Ertiga(3).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Maruti_Suzuki_Ertiga(3).jpg",
+      "author": "Akashpbrahmavar",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "reference": "Suzuki Ertiga"
+    }
+  ],
+  "Toyota Vios": [
+    {
+      "src": "/images/fleet/toyota-vios-1.jpg",
+      "title": "Toyota Vios (XP150) sedan front view.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Toyota_Vios_(XP150)_sedan_front_view.jpg",
+      "author": "EurovisionNim",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "reference": "Toyota Vios"
+    },
+    {
+      "src": "/images/fleet/toyota-vios-2.jpg",
+      "title": "TOYOTA VIOS (XP40) China (6).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:TOYOTA_VIOS_(XP40)_China_(6).jpg",
+      "author": "Dinkun Chen",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "reference": "Toyota Vios"
+    },
+    {
+      "src": "/images/fleet/toyota-vios-3.jpg",
+      "title": "TOYOTA VIOS (XP40) China (10).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:TOYOTA_VIOS_(XP40)_China_(10).jpg",
+      "author": "Dinkun Chen",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "reference": "Toyota Vios"
+    }
+  ],
+  "Mitsubishi Xpander": [
+    {
+      "src": "/images/fleet/mitsubishi-xpander-1.jpg",
+      "title": "Mitsubishi Xpander AP4 at the 2025 Shannons Adelaide Rally (028A4410).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Mitsubishi_Xpander_AP4_at_the_2025_Shannons_Adelaide_Rally_(028A4410).jpg",
+      "author": "Yu Chu Chin",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "reference": "Mitsubishi Xpander"
+    },
+    {
+      "src": "/images/fleet/mitsubishi-xpander-2.jpg",
+      "title": "Mitsubishi Xpander Sport (depan), Palangkaraya.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Mitsubishi_Xpander_Sport_(depan),_Palangkaraya.jpg",
+      "author": "Sabung.hamster aka Everyone Sinks Starco",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "reference": "Mitsubishi Xpander"
+    },
+    {
+      "src": "/images/fleet/mitsubishi-xpander-3.jpg",
+      "title": "2022 Mitsubishi Xpander Cross orange rear.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:2022_Mitsubishi_Xpander_Cross_orange_rear.jpg",
+      "author": "Throwawayacc222",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "reference": "Mitsubishi Xpander"
+    }
+  ],
+  "Toyota Innova": [
+    {
+      "src": "/images/fleet/toyota-innova-1.jpg",
+      "title": "Toyota (Innova) Zenix 2.0 V 2023 (1).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Toyota_(Innova)_Zenix_2.0_V_2023_(1).jpg",
+      "author": "Ethan Llamas",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "reference": "Toyota Innova"
+    },
+    {
+      "src": "/images/fleet/toyota-innova-2.jpg",
+      "title": "Toyota (Innova) Zenix 2.0 V 2023 (2).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Toyota_(Innova)_Zenix_2.0_V_2023_(2).jpg",
+      "author": "Ethan Llamas",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "reference": "Toyota Innova"
+    },
+    {
+      "src": "/images/fleet/toyota-innova-3.jpg",
+      "title": "Toyota Innova (first generation) (front), Kajang.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Toyota_Innova_(first_generation)_(front),_Kajang.jpg",
+      "author": "User:Two hundred percent",
+      "license": "CC BY-SA 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+      "reference": "Toyota Innova"
+    }
+  ],
+  "Nissan Almera": [
+    {
+      "src": "/images/fleet/nissan-almera-1.jpg",
+      "title": "2014 Nissan Almera (B11) blue front.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:2014_Nissan_Almera_(B11)_blue_front.jpg",
+      "author": "Throwawayacc222",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "reference": "Nissan Almera"
+    },
+    {
+      "src": "/images/fleet/nissan-almera-2.jpg",
+      "title": "2001 Nissan Almera S.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:2001_Nissan_Almera_S.jpg",
+      "author": "Calreyn88",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "reference": "Nissan Almera"
+    },
+    {
+      "src": "/images/fleet/nissan-almera-3.jpg",
+      "title": "2002 Nissan Almera Twister.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:2002_Nissan_Almera_Twister.jpg",
+      "author": "Calreyn88",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "reference": "Nissan Almera"
+    }
+  ],
+  "Ford Everest": [
+    {
+      "src": "/images/fleet/ford-everest-1.jpg",
+      "title": "Ford Everest Concept 01 -- Auto China -- 2014-04-23.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Ford_Everest_Concept_01_--_Auto_China_--_2014-04-23.jpg",
+      "author": "Navigator84",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "reference": "Ford Everest"
+    },
+    {
+      "src": "/images/fleet/ford-everest-2.jpg",
+      "title": "Ford Everest II China 2016-04-13.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Ford_Everest_II_China_2016-04-13.jpg",
+      "author": "Navigator84",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "reference": "Ford Everest"
+    },
+    {
+      "src": "/images/fleet/ford-everest-3.jpg",
+      "title": "FORD EVEREST (U375,UA) China (2).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:FORD_EVEREST_(U375,UA)_China_(2).jpg",
+      "author": "Dinkun Chen",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "reference": "Ford Everest"
+    }
+  ],
+  "Toyota Fortuner": [
+    {
+      "src": "/images/fleet/toyota-fortuner-1.jpg",
+      "title": "Toyota Fortuner, Cape Town (P1060077).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Toyota_Fortuner,_Cape_Town_(P1060077).jpg",
+      "author": "Matti Blume",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "reference": "Toyota Fortuner"
+    },
+    {
+      "src": "/images/fleet/toyota-fortuner-2.jpg",
+      "title": "Toyota Fortuner India.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Toyota_Fortuner_India.jpg",
+      "author": "Saiphani02",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "reference": "Toyota Fortuner"
+    },
+    {
+      "src": "/images/fleet/toyota-fortuner-3.jpg",
+      "title": "TOYOTA FORTUNER (AN150,AN160) China.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:TOYOTA_FORTUNER_(AN150,AN160)_China.jpg",
+      "author": "Dinkun Chen",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "reference": "Toyota Fortuner"
+    }
+  ],
+  "Hyundai Stargazer": [
+    {
+      "src": "/images/fleet/hyundai-stargazer-1.jpg",
+      "title": "2022 Hyundai Stargazer Prime (Indonesia) front view 01.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:2022_Hyundai_Stargazer_Prime_(Indonesia)_front_view_01.jpg",
+      "author": "Andra Febrian",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "reference": "Hyundai Stargazer"
+    },
+    {
+      "src": "/images/fleet/hyundai-stargazer-2.jpg",
+      "title": "Hyundai Stargazer (20221117).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Hyundai_Stargazer_(20221117).jpg",
+      "author": "Ethan Llamas",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "reference": "Hyundai Stargazer"
+    },
+    {
+      "src": "/images/fleet/hyundai-stargazer-3.jpg",
+      "title": "Hyundai Stargazer 1.5 GLS.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Hyundai_Stargazer_1.5_GLS.jpg",
+      "author": "Ethan Llamas",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "reference": "Hyundai Stargazer"
+    }
+  ],
+  "Toyota Wigo": [
+    {
+      "src": "/images/fleet/toyota-wigo-1.jpg",
+      "title": "Toyota Wigo 1.0 E (20221126).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Toyota_Wigo_1.0_E_(20221126).jpg",
+      "author": "Ethan Llamas",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "reference": "Toyota Wigo"
+    },
+    {
+      "src": "/images/fleet/toyota-wigo-2.jpg",
+      "title": "Toyota Wigo 1.0 E 2023.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Toyota_Wigo_1.0_E_2023.jpg",
+      "author": "Ethan Llamas",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "reference": "Toyota Wigo"
+    },
+    {
+      "src": "/images/fleet/toyota-wigo-3.jpg",
+      "title": "Toyota Wigo 1.0 G 2023 (2).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Toyota_Wigo_1.0_G_2023_(2).jpg",
+      "author": "Ethan Llamas",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "reference": "Toyota Wigo"
+    }
+  ],
+  "Honda Click": [
+    {
+      "src": "/images/fleet/honda-click-1.jpg",
+      "source": "https://www.zigwheels.ph/new-motorcycles/honda/click-125i/images",
+      "title": "Honda Click 125I",
+      "author": "Zigwheels Philippines / respective image owner",
+      "license": "Copyright retained by the image owner",
+      "licenseUrl": "https://www.zigwheels.ph/new-motorcycles/honda/click-125i/images",
+      "reference": "Honda Click"
+    },
+    {
+      "src": "/images/fleet/honda-click-2.jpg",
+      "source": "https://www.zigwheels.ph/new-motorcycles/honda/click-125i/images",
+      "title": "Honda Click 125I Rider Seat View",
+      "author": "Zigwheels Philippines / respective image owner",
+      "license": "Copyright retained by the image owner",
+      "licenseUrl": "https://www.zigwheels.ph/new-motorcycles/honda/click-125i/images",
+      "reference": "Honda Click"
+    },
+    {
+      "src": "/images/fleet/honda-click-3.jpg",
+      "source": "https://www.zigwheels.ph/new-motorcycles/honda/click-125i/images",
+      "title": "Honda Click 125I Speedometer",
+      "author": "Zigwheels Philippines / respective image owner",
+      "license": "Copyright retained by the image owner",
+      "licenseUrl": "https://www.zigwheels.ph/new-motorcycles/honda/click-125i/images",
+      "reference": "Honda Click"
+    }
+  ],
+  "Honda PCX": [
+    {
+      "src": "/images/fleet/honda-pcx-1.jpg",
+      "source": "https://www.zigwheels.ph/new-motorcycles/honda/pcx160/images",
+      "title": "Honda Pcx160",
+      "author": "Zigwheels Philippines / respective image owner",
+      "license": "Copyright retained by the image owner",
+      "licenseUrl": "https://www.zigwheels.ph/new-motorcycles/honda/pcx160/images",
+      "reference": "Honda PCX"
+    },
+    {
+      "src": "/images/fleet/honda-pcx-2.jpg",
+      "source": "https://www.zigwheels.ph/new-motorcycles/honda/pcx160/images",
+      "title": "Honda Pcx160 Rider Seat View",
+      "author": "Zigwheels Philippines / respective image owner",
+      "license": "Copyright retained by the image owner",
+      "licenseUrl": "https://www.zigwheels.ph/new-motorcycles/honda/pcx160/images",
+      "reference": "Honda PCX"
+    },
+    {
+      "src": "/images/fleet/honda-pcx-3.jpg",
+      "source": "https://www.zigwheels.ph/new-motorcycles/honda/pcx160/images",
+      "title": "Honda Pcx160 Rear Suspension",
+      "author": "Zigwheels Philippines / respective image owner",
+      "license": "Copyright retained by the image owner",
+      "licenseUrl": "https://www.zigwheels.ph/new-motorcycles/honda/pcx160/images",
+      "reference": "Honda PCX"
+    }
+  ],
+  "Honda ADV": [
+    {
+      "src": "/images/fleet/honda-adv-1.jpg",
+      "source": "https://www.zigwheels.ph/new-motorcycles/honda/adv-160/images",
+      "title": "Honda Adv 160",
+      "author": "Zigwheels Philippines / respective image owner",
+      "license": "Copyright retained by the image owner",
+      "licenseUrl": "https://www.zigwheels.ph/new-motorcycles/honda/adv-160/images",
+      "reference": "Honda ADV"
+    },
+    {
+      "src": "/images/fleet/honda-adv-2.jpg",
+      "source": "https://www.zigwheels.ph/new-motorcycles/honda/adv-160/images",
+      "title": "Honda Adv 160 Console View",
+      "author": "Zigwheels Philippines / respective image owner",
+      "license": "Copyright retained by the image owner",
+      "licenseUrl": "https://www.zigwheels.ph/new-motorcycles/honda/adv-160/images",
+      "reference": "Honda ADV"
+    },
+    {
+      "src": "/images/fleet/honda-adv-3.jpg",
+      "source": "https://www.zigwheels.ph/new-motorcycles/honda/adv-160/images",
+      "title": "Honda Adv 160 Tail Light View",
+      "author": "Zigwheels Philippines / respective image owner",
+      "license": "Copyright retained by the image owner",
+      "licenseUrl": "https://www.zigwheels.ph/new-motorcycles/honda/adv-160/images",
+      "reference": "Honda ADV"
+    }
+  ],
+  "Yamaha Mio": [
+    {
+      "src": "/images/fleet/yamaha-mio-1.jpg",
+      "source": "https://www.zigwheels.ph/new-motorcycles/yamaha/mio-i-125/images",
+      "title": "Yamaha Mio I 125",
+      "author": "Zigwheels Philippines / respective image owner",
+      "license": "Copyright retained by the image owner",
+      "licenseUrl": "https://www.zigwheels.ph/new-motorcycles/yamaha/mio-i-125/images",
+      "reference": "Yamaha Mio"
+    },
+    {
+      "src": "/images/fleet/yamaha-mio-2.jpg",
+      "source": "https://www.zigwheels.ph/new-motorcycles/yamaha/mio-i-125/images",
+      "title": "Yamaha Mio I 125 Rider Seat View",
+      "author": "Zigwheels Philippines / respective image owner",
+      "license": "Copyright retained by the image owner",
+      "licenseUrl": "https://www.zigwheels.ph/new-motorcycles/yamaha/mio-i-125/images",
+      "reference": "Yamaha Mio"
+    },
+    {
+      "src": "/images/fleet/yamaha-mio-3.jpg",
+      "source": "https://www.zigwheels.ph/new-motorcycles/yamaha/mio-i-125/images",
+      "title": "Yamaha Mio I 125 Speedometer",
+      "author": "Zigwheels Philippines / respective image owner",
+      "license": "Copyright retained by the image owner",
+      "licenseUrl": "https://www.zigwheels.ph/new-motorcycles/yamaha/mio-i-125/images",
+      "reference": "Yamaha Mio"
+    }
+  ],
+  "Yamaha NMAX": [
+    {
+      "src": "/images/fleet/yamaha-nmax-1.jpg",
+      "title": "Yamaha nmax cpd150 YCP.JPG",
+      "source": "https://commons.wikimedia.org/wiki/File:Yamaha_nmax_cpd150_YCP.JPG",
+      "author": "Rainmaker47",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "reference": "Yamaha NMAX"
+    },
+    {
+      "src": "/images/fleet/yamaha-nmax-2.jpg",
+      "title": "Yamaha NMAX 155.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Yamaha_NMAX_155.jpg",
+      "author": "LSSM1437",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "reference": "Yamaha NMAX"
+    },
+    {
+      "src": "/images/fleet/yamaha-nmax-3.jpg",
+      "title": "Yamaha Nmax 155 front.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Yamaha_Nmax_155_front.jpg",
+      "author": "Corvettec6r",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "reference": "Yamaha NMAX"
+    }
+  ],
+  "Suzuki Burgman Street": [
+    {
+      "src": "/images/fleet/suzuki-burgman-street-1.jpg",
+      "title": "2023 Suzuki Burgman Street 125 EX.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:2023_Suzuki_Burgman_Street_125_EX.jpg",
+      "author": "Chanokchon",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "reference": "Suzuki Burgman Street"
+    },
+    {
+      "src": "/images/fleet/suzuki-burgman-street-2.jpg",
+      "title": "2024 Suzuki Burgman Street 125 GL.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:2024_Suzuki_Burgman_Street_125_GL.jpg",
+      "author": "Chanokchon",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "reference": "Suzuki Burgman Street"
+    },
+    {
+      "src": "/images/fleet/suzuki-burgman-street-3.jpg",
+      "title": "Suzuki Burgman Street 125.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Suzuki_Burgman_Street_125.jpg",
+      "author": "VonTheGreater26",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "reference": "Suzuki Burgman Street"
+    }
+  ],
+  "Honda TMX": [
+    {
+      "src": "/images/fleet/honda-tmx-1.jpg",
+      "title": "Honda tmx 155.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Honda_tmx_155.jpg",
+      "author": "Jybumaat",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "reference": "Honda TMX"
+    },
+    {
+      "src": "/images/fleet/honda-tmx-2.jpg",
+      "source": "https://www.zigwheels.ph/new-motorcycles/honda/tmx125-alpha/colors",
+      "title": "Honda TMX125 Alpha, black",
+      "author": "Zigwheels Philippines / respective image owner",
+      "license": "Copyright retained by the image owner",
+      "licenseUrl": "https://www.zigwheels.ph/new-motorcycles/honda/tmx125-alpha/colors",
+      "reference": "Honda TMX"
+    },
+    {
+      "src": "/images/fleet/honda-tmx-3.jpg",
+      "source": "https://www.zigwheels.ph/new-motorcycles/honda/tmx125-alpha/images",
+      "title": "Honda TMX125 Alpha, rear side view",
+      "author": "Zigwheels Philippines / respective image owner",
+      "license": "Copyright retained by the image owner",
+      "licenseUrl": "https://www.zigwheels.ph/new-motorcycles/honda/tmx125-alpha/images",
+      "reference": "Honda TMX"
+    }
+  ],
+  "Yamaha Sniper": [
+    {
+      "src": "/images/fleet/yamaha-sniper-1.jpg",
+      "source": "https://www.zigwheels.ph/new-motorcycles/yamaha/sniper-155/images",
+      "title": "Yamaha Sniper 155",
+      "author": "Zigwheels Philippines / respective image owner",
+      "license": "Copyright retained by the image owner",
+      "licenseUrl": "https://www.zigwheels.ph/new-motorcycles/yamaha/sniper-155/images",
+      "reference": "Yamaha Sniper"
+    },
+    {
+      "src": "/images/fleet/yamaha-sniper-2.jpg",
+      "source": "https://www.zigwheels.ph/new-motorcycles/yamaha/sniper-155/images",
+      "title": "Yamaha Sniper 155 Right Side Viewfull Image",
+      "author": "Zigwheels Philippines / respective image owner",
+      "license": "Copyright retained by the image owner",
+      "licenseUrl": "https://www.zigwheels.ph/new-motorcycles/yamaha/sniper-155/images",
+      "reference": "Yamaha Sniper"
+    },
+    {
+      "src": "/images/fleet/yamaha-sniper-3.jpg",
+      "source": "https://www.zigwheels.ph/new-motorcycles/yamaha/sniper-155/images",
+      "title": "Yamaha Sniper 155 Head Light View",
+      "author": "Zigwheels Philippines / respective image owner",
+      "license": "Copyright retained by the image owner",
+      "licenseUrl": "https://www.zigwheels.ph/new-motorcycles/yamaha/sniper-155/images",
+      "reference": "Yamaha Sniper"
+    }
+  ],
+  "Honda Beat": [
+    {
+      "src": "/images/fleet/honda-beat-1.jpg",
+      "source": "https://www.zigwheels.ph/new-motorcycles/honda/beat/images",
+      "title": "Honda Beat",
+      "author": "Zigwheels Philippines / respective image owner",
+      "license": "Copyright retained by the image owner",
+      "licenseUrl": "https://www.zigwheels.ph/new-motorcycles/honda/beat/images",
+      "reference": "Honda Beat"
+    },
+    {
+      "src": "/images/fleet/honda-beat-2.jpg",
+      "source": "https://www.zigwheels.ph/new-motorcycles/honda/beat/images",
+      "title": "Honda Beat Rider Seat View",
+      "author": "Zigwheels Philippines / respective image owner",
+      "license": "Copyright retained by the image owner",
+      "licenseUrl": "https://www.zigwheels.ph/new-motorcycles/honda/beat/images",
+      "reference": "Honda Beat"
+    },
+    {
+      "src": "/images/fleet/honda-beat-3.jpg",
+      "source": "https://www.zigwheels.ph/new-motorcycles/honda/beat/images",
+      "title": "Honda Beat Speedometer",
+      "author": "Zigwheels Philippines / respective image owner",
+      "license": "Copyright retained by the image owner",
+      "licenseUrl": "https://www.zigwheels.ph/new-motorcycles/honda/beat/images",
+      "reference": "Honda Beat"
+    }
+  ],
+  "Yamaha Aerox": [
+    {
+      "src": "/images/fleet/yamaha-aerox-1.jpg",
+      "source": "https://www.zigwheels.ph/new-motorcycles/yamaha/mio-aerox/images",
+      "title": "Yamaha Mio Aerox",
+      "author": "Zigwheels Philippines / respective image owner",
+      "license": "Copyright retained by the image owner",
+      "licenseUrl": "https://www.zigwheels.ph/new-motorcycles/yamaha/mio-aerox/images",
+      "reference": "Yamaha Aerox"
+    },
+    {
+      "src": "/images/fleet/yamaha-aerox-2.jpg",
+      "source": "https://www.zigwheels.ph/new-motorcycles/yamaha/mio-aerox/images",
+      "title": "Yamaha Mio Aerox Rider Seat View",
+      "author": "Zigwheels Philippines / respective image owner",
+      "license": "Copyright retained by the image owner",
+      "licenseUrl": "https://www.zigwheels.ph/new-motorcycles/yamaha/mio-aerox/images",
+      "reference": "Yamaha Aerox"
+    },
+    {
+      "src": "/images/fleet/yamaha-aerox-3.jpg",
+      "source": "https://www.zigwheels.ph/new-motorcycles/yamaha/mio-aerox/images",
+      "title": "Yamaha Mio Aerox Head Light View",
+      "author": "Zigwheels Philippines / respective image owner",
+      "license": "Copyright retained by the image owner",
+      "licenseUrl": "https://www.zigwheels.ph/new-motorcycles/yamaha/mio-aerox/images",
+      "reference": "Yamaha Aerox"
+    }
+  ]
+}

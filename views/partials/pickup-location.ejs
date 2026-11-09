@@ -1,0 +1,19 @@
+<section class="panel pickup-location" aria-labelledby="pickup-location-title">
+  <h2 id="pickup-location-title">Motor pickup location</h2>
+  <p><strong><%= config.location %></strong></p>
+  <% if (config.latitude && config.longitude) { %>
+    <div id="shop-map" class="shop-map" data-lat="<%= config.latitude %>" data-lng="<%= config.longitude %>" aria-label="Map showing the rental shop pickup location"></div>
+    <div class="actions">
+      <button type="button" class="btn btn-primary" id="get-directions">Show distance from my location</button>
+      <a class="btn btn-light" target="_blank" rel="noopener" href="https://www.google.com/maps/dir/?api=1&destination=<%= encodeURIComponent(config.latitude + ',' + config.longitude) %>">Open directions</a>
+    </div>
+    <p id="route-status" role="status">Tap the button and allow location access to see the distance and estimated drive to the pickup shop.</p>
+    <p class="muted">Distance and travel time are estimates. Location access needs HTTPS or localhost.</p>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script src="/js/contact-map.js" defer></script>
+  <% } else { %>
+    <p class="muted">The shop map pin has not been set yet. Contact the shop for exact pickup directions.</p>
+    <a class="btn btn-light" href="/contact">Contact the shop</a>
+  <% } %>
+</section>

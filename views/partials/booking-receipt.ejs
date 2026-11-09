@@ -1,0 +1,38 @@
+<style>
+  .booking-print-receipt{display:none;max-width:760px;margin:30px auto;padding:28px;background:#fff;border:1px solid #dbe2ef;border-radius:12px;color:#112d4e}
+  .booking-print-receipt.open{display:block;position:fixed;z-index:1000;top:50%;left:50%;transform:translate(-50%,-50%);width:min(760px,calc(100vw - 32px));max-height:calc(100vh - 32px);overflow:auto;margin:0;box-shadow:0 0 0 100vmax rgba(10,28,48,.68),0 20px 60px rgba(10,28,48,.3)}
+  .booking-print-receipt h1{margin:0 0 4px}
+  .booking-print-receipt h2{margin:24px 0 12px}
+  .booking-print-receipt .receipt-row{display:flex;justify-content:space-between;gap:16px;border-bottom:1px solid #dbe2ef;padding:7px 0}
+  .booking-print-receipt .receipt-row span:last-child{text-align:right}
+  .booking-print-receipt .receipt-total{font-size:18px;font-weight:bold;border-top:2px solid #112d4e;margin-top:12px;padding-top:12px}
+  .receipt-preview-actions{display:flex;gap:10px;margin-bottom:20px}
+  @media print{
+    body > *:not(.booking-print-receipt){display:none!important}
+    .booking-print-receipt{display:block!important;position:static!important;transform:none!important;width:auto!important;max-height:none!important;overflow:visible!important;box-shadow:none!important;border:0!important;margin:0!important;color:#112d4e;font:14px/1.5 Arial,sans-serif;padding:8mm}
+    .booking-print-receipt h1{margin:0 0 4px;font-size:26px}
+    .booking-print-receipt h2{margin:24px 0 12px;font-size:20px}
+    .booking-print-receipt .receipt-row{display:flex;justify-content:space-between;gap:16px;border-bottom:1px solid #ddd;padding:6px 0}
+    .booking-print-receipt .receipt-row span:last-child{text-align:right}
+    .booking-print-receipt .receipt-total{font-size:18px;font-weight:bold;border-top:2px solid #112d4e;margin-top:12px;padding-top:12px}
+    .receipt-preview-actions{display:none}
+    @page{margin:14mm}
+  }
+</style>
+<article id="receipt-preview" class="booking-print-receipt" role="dialog" aria-modal="true" aria-label="Payment receipt">
+  <div class="receipt-preview-actions"><button type="button" class="btn btn-primary" onclick="window.print()">Print receipt</button><button type="button" class="btn btn-light" onclick="document.getElementById('receipt-preview').classList.remove('open')">Close</button></div>
+  <h1><%= config.siteName %></h1>
+  <div><%= config.location %> · <%= config.contactNumber %></div>
+  <h2>Payment receipt</h2>
+  <div class="receipt-row"><span>Booking reference</span><strong><%= booking.booking_code %></strong></div>
+  <div class="receipt-row"><span>Vehicle</span><span><%= booking.brand %> <%= booking.model %> (<%= booking.plate_number %>)</span></div>
+  <div class="receipt-row"><span>Rental dates</span><span><%= booking.start_date %> to <%= booking.end_date %></span></div>
+  <div class="receipt-row"><span>Payment status</span><span><%= booking.payment_status %></span></div>
+  <div class="receipt-row"><span>Rental total</span><span>₱<%= Number(booking.total_amount).toLocaleString('en-PH',{minimumFractionDigits:2}) %></span></div>
+  <% if (Number(booking.late_penalty) > 0) { %><div class="receipt-row"><span>Late fee</span><span>₱<%= Number(booking.late_penalty).toLocaleString('en-PH',{minimumFractionDigits:2}) %></span></div><% } %>
+  <div class="receipt-row receipt-total"><span>Amount received</span><span>₱<%= Number(booking.amount_paid).toLocaleString('en-PH',{minimumFractionDigits:2}) %></span></div>
+  <div class="receipt-row"><span>Remaining balance</span><span>₱<%= Math.max(0,Number(booking.total_amount)+Number(booking.late_penalty)-Number(booking.amount_paid)).toLocaleString('en-PH',{minimumFractionDigits:2}) %></span></div>
+  <% const verifiedPayments = payments.filter(p => p.status === 'Verified'); %>
+  <% if (verifiedPayments.length) { %><h2>Verified payments</h2><% verifiedPayments.forEach(p => { %><div class="receipt-row"><span><%= p.created_at %> · <%= p.method %><% if (p.reference_no) { %> · Ref: <%= p.reference_no %><% } %></span><span>₱<%= Number(p.amount).toLocaleString('en-PH',{minimumFractionDigits:2}) %></span></div><% }) %><% } %>
+  <% if (Number(booking.amount_paid) === 0) { %><p>No payment has been verified for this booking.</p><% } %>
+</article>

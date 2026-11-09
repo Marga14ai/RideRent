@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # RideRent — Modern UI update
 
 Requires Node.js 24 or newer. Extract the ZIP and open a terminal inside the RideRent folder containing package.json.
@@ -26,3 +27,7 @@ Visitor statistics, OR/CR requirements and reminders, reports, admin database/ER
 Set the actual shop location in Admin → Shop Settings. Existing motorcycles still need genuine OR/CR and a registration expiry date before they can be booked.
 
 Read VALIDATION.md for checks performed and browser checks remaining.
+=======
+# RideRent
+Car and motorcycle rental
+>>>>>>> origin/main
